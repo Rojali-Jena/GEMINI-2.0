@@ -1,4 +1,7 @@
 {
+  "engines": {
+    "node": "20.11.1"
+  },
   "name": "gemini-clone",
   "private": true,
   "version": "0.0.0",
